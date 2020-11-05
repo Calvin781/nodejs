@@ -1,1 +1,4 @@
-# react repo challenge
+# React Challenge:
+
+- Search APP (images)
+- Seasons APP
